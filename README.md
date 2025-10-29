@@ -5,3 +5,4 @@ NIM   : 23552011055
 
 ## Bukti Screen Shot
 
+![Halaman](asset/halaman.jpg)
