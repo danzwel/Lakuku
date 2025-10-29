@@ -1,6 +1,6 @@
 # Tugas E-learning
 
-Nama  : Daniel Desmanto Nugraha
+<li>Nama  : Daniel Desmanto Nugraha</li>
 NIM   : 23552011055
 
 ## Bukti Screen Shot
