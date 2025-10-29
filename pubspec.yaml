@@ -76,7 +76,8 @@ flutter:
   fonts: 
   - family: Oswald
     fonts:
-      - asset: font/Oswald-VariableFont_wght.ttf
+      - asset: asset/font/Oswald-VariableFont_wght.ttf
+
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf

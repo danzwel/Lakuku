@@ -16,7 +16,7 @@ void main() {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
-                'Main Title',
+                'Tugas Pemob E-learning',
                 style: TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
@@ -25,7 +25,7 @@ void main() {
               const Text('All text uses the same font family.'),
               ElevatedButton(
                 onPressed: () {},
-                child: const Text('Theme Button'),
+                child: const Text('Tombol'),
               ),
             ],
           ),
